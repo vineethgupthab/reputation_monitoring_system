@@ -1,2 +1,2 @@
-Link to the PPT https://docs.google.com/presentation/d/1kvHz0X3QnvmrQb2y0QYaGtENyisoTD0MiBkWs895WXs/edit?usp=sharing
-Link to the documentation https://docs.google.com/document/d/19ZHePqo6t4fR67gVnoxkN5IJAuVESzQta3xlWEJiKKA/edit?usp=sharing
+- Link to the PPT https://docs.google.com/presentation/d/1kvHz0X3QnvmrQb2y0QYaGtENyisoTD0MiBkWs895WXs/edit?usp=sharing
+- Link to the documentation https://docs.google.com/document/d/19ZHePqo6t4fR67gVnoxkN5IJAuVESzQta3xlWEJiKKA/edit?usp=sharing
